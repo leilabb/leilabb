@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leila</h1>
 <h3 align="center">I love problem solving.</h3>
 
-- 🔭 I’m currently working on **a CV Builder** in **React + Firebase** <a href="https://github.com/leilabb/cv-builder">Link to CV Builder</a>
+ 🔭 I’m currently working on **a CV Builder** in **React + Firebase** <a href="https://github.com/leilabb/cv-builder">Link to CV Builder</a>
 
-- 🌱 I’m currently learning **Svelte and trying to deepen my React knowledge.**
+ 🌱 I’m currently learning **Svelte and trying to deepen my React knowledge.**
 
-- 💬 Ask me about **anything that comes to mind.**
+ 💬 Ask me about **anything that comes to mind.**
 
 <p align="left">
 </p>
