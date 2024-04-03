@@ -3,7 +3,7 @@
 
  🔭 I’m currently working on **a CV Builder** in **React + Tailwind** deployed using **Firebase** <a href="https://github.com/leilabb/cv-builder">Link to CV Builder</a>
 
- 🌱 I’m currently trying to deepen my React knowledge.**
+ 🌱 I’m currently trying to deepen my React knowledge.
 
  💬 Ask me about **anything that comes to mind.**
 
