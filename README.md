@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leila</h1>
 <h3 align="center">I love problem solving.</h3>
 
- 🔭 I made a **CV Builder** in **React + Tailwind** deployed using **Firebase** <a href="https://github.com/leilabb/cv-builder">Link to CV Builder</a>
+ 🔭 I made a **CV Builder** in **React + Tailwind** deployed using **Firebase** You can find it <a href="https://github.com/leilabb/cv-builder">here</a>.
 
  🌱 I’m currently trying to deepen my React knowledge.
 
