@@ -3,7 +3,7 @@
 
  🔭 I made a **Resume Builder** in **React + Tailwind** deployed using **Firebase**. For my personal use, so I used localhost to store data. You can find it <a href="https://github.com/leilabb/cv-builder">here</a>.
 
- 🌱 I’m currently trying to deepen my React knowledge.
+ 🌱 I’m currently trying to deepen my React and backend knowledge.
 
  💬 Ask me about **anything that comes to mind.**
 
