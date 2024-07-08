@@ -2,7 +2,7 @@
 <h3 align="center">I love problem solving.</h3>
 
  
- ✅ I made a **Resume Builder** in **React + Tailwind** deployed using **Firebase**. For my personal use, so I used localhost to store data. You can find it <a href="https://github.com/leilabb/cv-builder">here</a>.
+ ✅ I made a **Resume Builder** in **React + Tailwind** deployed using **Firebase**. For my personal use, so I used localhost to store data. You can find it <a href="https://cv-app-9f8d7.web.app/">here</a>.
 
  🔭 Next up: my first Node.js project.
 
