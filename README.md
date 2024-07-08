@@ -8,7 +8,7 @@
 
  🌱 I’m currently trying to deepen my React and backend knowledge.
 
- 💬 Ask me about **anything that comes to mind.**
+ 💬 Ask me about **my upcoming projects or things I want to learn but haven't had the chance to**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
