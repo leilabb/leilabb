@@ -13,6 +13,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,svelte,git,tailwind,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,ts,svelte,git,tailwind,nodejs,mongodb,wordpress" />
   </a>
 </p>
+
+
