@@ -4,7 +4,7 @@
 
  ✅ Check out my two latest projects: <br><ul><li>Resume Builder in **React + Tailwind**: 
   <a href="https://cv-app-9f8d7.web.app/" target="_blank"> here</a>. <br></li>
-  <li>Sign up page in **Node and MongoDb** <a href="https://signup-hmtk.onrender.com/" target="_blank">here</a>.</li> </ul>
+  <li>Sign up page in <b>Node and MongoDb</b> <a href="https://signup-hmtk.onrender.com/" target="_blank">here</a>.</li> </ul>
 
  🌱 I’m currently trying to deepen my React and backend knowledge.
 
