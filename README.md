@@ -6,7 +6,7 @@
   <a href="https://cv-app-9f8d7.web.app/" target="_blank"> here</a>. <br></li>
   <li>Sign up page in <b>Node and MongoDb</b> <a href="https://signup-hmtk.onrender.com/" target="_blank">here</a>.</li> </ul>
 
-⌛ I’m currently: rebuilding my web site. Solving Leetcode problems. 
+⌛ I’m currently: rebuilding my web site. Solving logical problems. 
 
  👩‍🎓I studied Computer Science at Uppsala University in Sweden.
 
