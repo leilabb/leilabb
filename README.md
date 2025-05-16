@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leila</h1>
-<h3 align="center">I'm from Sweden but currently live in Spain. I love problem solving.</h3>
+<h3 align="center">I'm from Sweden but currently live in Spain.</h3>
 
 
  ✅ Check out my two latest projects: <br><ul><li>Resume Builder in **React + Tailwind**: 
