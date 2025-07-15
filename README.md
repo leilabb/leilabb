@@ -2,11 +2,9 @@
 <h3 align="center">I'm from Sweden but currently live in Spain.</h3>
 
 
- ✅ Check out my two latest projects: <br><ul><li>Resume Builder in **React + Tailwind**: 
-  <a href="https://cv-app-9f8d7.web.app/" target="_blank"> here</a>. <br></li>
-  <li>Sign up page in <b>Node and MongoDb</b> <a href="https://signup-hmtk.onrender.com/" target="_blank">here</a>.</li> </ul>
-
-⌛ I’m currently: rebuilding my web site. Solving logical problems. 
+ ✅ Check out my portfolio: <a target="_blank" href="https://leilas-portfolio.web.app/">https://leilas-portfolio.web.app/</a> 
+ 
+⌛ I’m currently: Planning my next project: the game Wordle.
 
  👩‍🎓I studied Computer Science at Uppsala University in Sweden.
 
