@@ -4,7 +4,7 @@
 
  ✅ Check out my portfolio: <a target="_blank" href="https://leilas-portfolio.web.app/">https://leilas-portfolio.web.app/</a> 
  
-⌛ I’m currently: Planning my next project: the game Wordle.
+⌛ I’m currently: Building a formatter.
 
  👩‍🎓I studied Computer Science at Uppsala University in Sweden.
 
